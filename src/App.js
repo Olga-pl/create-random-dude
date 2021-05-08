@@ -1,25 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import { useState, useEffect } from 'react'
+import RandomDude from "./components/RandomDude"
 
-function App() {
+import JsonData from './data/data.json'
+
+const App = () => {
+  const [landingPageData, setLandingPageData] = useState({})
+  const [loading, setLoading] = useState(true);
+  useEffect(() => {
+    setLandingPageData(JsonData);
+    setLoading(false);
+    window.scrollTo(0, 0)
+    
+  }, [])
+
+  if(loading)return <h1>LOADING</h1>
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+            <RandomDude data={landingPageData.Assets}/>
     </div>
   );
 }
 
-export default App;
+export default App

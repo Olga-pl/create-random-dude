@@ -1,0 +1,144 @@
+{
+    "Assets":[
+        {
+            
+            "Body":[
+                {
+                    "img": "img/Body/Hoodie.png"
+                },
+                {
+                    "img": "img/Body/Jacket_2.png"
+                },
+                {
+                    "img": "img/Body/Jacket.png"
+                },
+                {
+                    "img": "img/Body/Lab_Coat.png"
+                },
+                {
+                    "img": "img/Body/Long_Sleeve.png"
+                },
+                {
+                    "img": "img/Body/Pointing_Forward.png"
+                },
+                {
+                    "img": "img/Body/Pointing_Up.png"
+                },
+                {
+                    "img": "img/Body/Pregnant.png"
+                },
+                {
+                    "img": "img/Body/Trench_Coat.png"
+                },
+                {
+                    "img": "img/Body/Turtle_Neck.png"
+                }
+            ],
+            "Bottom":[
+                {
+                    "img": "img/Bottom/Sitting/Baggy_Pants.png"
+                },
+                {
+                    "img": "img/Bottom/Sitting/Skinny_Jeans_1.png"
+                },
+                {
+                    "img": "img/Bottom/Sitting/Sweat_Pants.png"
+                },
+                {
+                    "img": "img/Bottom/Sitting/Wheelchair.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Baggy_Pants.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Jogging.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Shorts.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Skinny_Jeans_Walk.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Skinny_Jeans.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Skirt.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Sprint.png"
+                },
+                {
+                    "img": "img/Bottom/Standing/Sweatpants.png"
+                }
+            ],
+            "Head":[
+                {
+                    "img": "img/Head/Front/Afro.png"
+                },
+                {
+                    "img": "img/Head/Front/Caesar.png"
+                },
+                {
+                    "img": "img/Head/Front/Chongo.png"
+                },
+                {
+                    "img": "img/Head/Front/Curly.png"
+                },
+                {
+                    "img": "img/Head/Front/Hijab1.png"
+                },
+                {
+                    "img": "img/Head/Front/Hijab2.png"
+                },
+                {
+                    "img": "img/Head/Front/Long.png"
+                },
+                {
+                    "img": "img/Head/Front/No_Hair.png"
+                },
+                {
+                    "img": "img/Head/Front/Pony.png"
+                },
+                {
+                    "img": "img/Head/Front/Rad.png"
+                },
+                {
+                    "img": "img/Head/Front/Short_Beard.png"
+                },
+                {
+                    "img": "img/Head/Front/Short1.png"
+                },
+                {
+                    "img": "img/Head/Front/Short2.png"
+                },
+                {
+                    "img": "img/Head/Front/Top.png"
+                },
+                {
+                    "img": "img/Head/Front/Turban1.png"
+                },
+                {
+                    "img": "img/Head/Front/Turban2.png"
+                },
+                {
+                    "img": "img/Head/Front/Wavy.png"
+                }
+            ],
+            "Scene":[
+                {
+                    "img": "img/Scene/Home.png"
+                },
+                {
+                    "img": "img/Scene/Plants.png"
+                },
+                {
+                    "img": "img/Scene/Whiteboard.png"
+                },
+                {
+                    "img": "img/Scene/Wireframe.png"
+                }
+            ]
+        }
+    ]
+}
